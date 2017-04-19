@@ -1,0 +1,13 @@
+.my-class {
+  border: 10px solid green;
+  margin: 10px;
+  width: 70%;
+}
+p5 {
+  float: left;
+}
+
+.column {
+  width: 300px;
+  float: left;
+}
